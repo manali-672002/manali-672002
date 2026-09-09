@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm YOUR_NAME 👋</h1>
+<h1 align="center">Hi there, I'm Manali Sunil Kulkarni 👋</h1>
 <h3 align="center">Aspiring Software Developer | Java • SQL • AWS • Docker • Jenkins</h3>
 
 <p align="center">
@@ -28,28 +28,15 @@
 
 ---
 
-### 🚀 Projects
-*(Add your projects here as you build them — even small ones count!)*
-
-- **Project Name** — One-line description of what it does and what tech was used.  
-  🔗 [Repo Link](#) &nbsp;|&nbsp; 🔗 [Live Demo](#) *(if deployed)*
-
-- **Project Name 2** — One-line description.  
-  🔗 [Repo Link](#)
-
-> 💡 Tip: Replace this section as soon as you finish your first project — even a simple Java + SQL CRUD app or an AWS S3 file-upload demo works great to start.
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=manali-672002&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manali-672002&theme=dark&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manali-672002&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
@@ -57,7 +44,7 @@
 ### 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manali1kulkarni)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manalivsk67@gmail.com)
 
 ---
 
